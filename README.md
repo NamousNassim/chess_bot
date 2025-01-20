@@ -2,13 +2,13 @@
 ## CHESS AI
 
 ## Data 
- Lichess <a href="https://database.lichess.org">database</a>, a data cleaning process:
+ Lichess <a href="https://database.lichess.org">database</a>
 
 ## GUI
 `pygame`  `python-chess` modules.
 
 ## Model
-This architecture  <a href="http://cs231n.stanford.edu/reports/2015/pdfs/ConvChess.pdf">Link</a>.
+ architecture  <a href="http://cs231n.stanford.edu/reports/2015/pdfs/ConvChess.pdf">Link</a>.
 
 
 ```
